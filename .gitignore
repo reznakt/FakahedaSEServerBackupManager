@@ -4,5 +4,6 @@
 !.gitattributes
 !LICENSE
 !README.md
+!requirements.txt
 
 !FSSBM.py
